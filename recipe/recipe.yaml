@@ -1,5 +1,5 @@
 context:
-  version: "0.3.162"
+  version: "0.3.164"
 
 package:
   name: release-plz
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/release-plz/release-plz/archive/refs/tags/release-plz-v${{ version }}.tar.gz
-  sha256: b9216fcfe8acb38b5c638f3dff4ac9e6b76f32b9ab77f8df60cabb5b8d526441
+  sha256: da4a300f9d09ac5b3f2f9572a700610fad7fa7a239b15e58096e1c81b910e999
 
 build:
   number: 0
